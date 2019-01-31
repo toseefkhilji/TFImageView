@@ -58,8 +58,7 @@
 		21832B5322031F2700CC1347 /* TFImageView */ = {
 			isa = PBXGroup;
 			children = (
-				21832B6622031F5800CC1347 /* DeviceKit */,
-				21832B6822031F5800CC1347 /* TFImageView.swift */,
+				21832B6B220325B300CC1347 /* Source */,
 				21832B5422031F2700CC1347 /* AppDelegate.swift */,
 				21832B5622031F2700CC1347 /* ViewController.swift */,
 				21832B5822031F2700CC1347 /* Main.storyboard */,
@@ -76,6 +75,15 @@
 				21832B6722031F5800CC1347 /* Device.generated.swift */,
 			);
 			path = DeviceKit;
+			sourceTree = "<group>";
+		};
+		21832B6B220325B300CC1347 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				21832B6622031F5800CC1347 /* DeviceKit */,
+				21832B6822031F5800CC1347 /* TFImageView.swift */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
